@@ -15,7 +15,7 @@
         "name":["第一精灵","第一JL","大佬Z","大Z","ZERO","Zerosea"],
         "角色名":"Zerosea",
         "外号":["大佬Z","巨佬Z","LLL第一精灵"],
-        "常用语":["可能是我伤害太高了","不是20级不能用啊","要不你在冲8w试试","真香","没错我就是权限狗","有钱真的可以为所欲为","我是萌新Z","[CQ:image,file=dalaoz1.gif][CQ:image,file=dalaoz2.gif]","[CQ:image,file=dalaoz3.gif][CQ:image,file=dalaoz4.jpg]"],"[CQ:image,file=dalaoz5.gif]"],
+        "常用语":["可能是我伤害太高了","不是20级不能用啊","要不你在冲8w试试","真香","没错我就是权限狗","有钱真的可以为所欲为","我是萌新Z","[CQ:image,file=dalaoz1.gif][CQ:image,file=dalaoz2.gif]","[CQ:image,file=dalaoz3.gif][CQ:image,file=dalaoz4.jpg]","[CQ:image,file=dalaoz5.gif]"],
     },
     {
         "name":["阿昌","昌妹"],
